@@ -27,9 +27,8 @@ The goal is to:
 - Allow the Private EC2 instance to access the Internet through the NAT Gateway.
 - Keep the database server isolated from direct Internet access.
 
-Architecture
+![NAT Gateway](screenshots/NATGATEWAY.png)
 
-![Architecture](screenshots/architecture.png)
 
 Services Used
 
