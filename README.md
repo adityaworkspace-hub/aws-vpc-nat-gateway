@@ -40,6 +40,7 @@ Services Used
 - Elastic IP
 - Route Tables
 - Security Groups
+- MobaXterm
 
 Network Details
 
@@ -125,9 +126,9 @@ Connectivity Test
 
 Verified the following:
 
-- Successfully connected to the Public EC2 instance using SSH.
+- Successfully connected to the Public EC2 instance using SSH in MobaXterm.
 - Confirmed that the Private EC2 instance has no public IP address.
-- Verified outbound Internet access from the Private EC2 instance through the NAT Gateway.
+- Verified outbound Internet access from the Private EC2 instance through the NAT Gateway in MobaXterm.
 
 ![SSH Test](screenshots/ssh-test.png)
 
